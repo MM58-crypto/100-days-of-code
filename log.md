@@ -19,12 +19,12 @@
 **Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 3: April 23, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: welp tbh i didnt achieve much but tried using an event listener for step 3 which is related to hovering and making the mouse pointer actually sketch however it didn't work as expected.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: an article given to me (after addressing my issue) from the t.o.p discord server really helped me altho i still couldn't make the sketch function work but iam one again one step closer to finish the proj.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
