@@ -27,4 +27,12 @@
 
 **Link(s) to work**
 
+### Day 4: April 24, 2020
+
+**Today's Progress**: Finally!!, the most important step for this project has been done. at last i was able to sketch on the grid aka the hover is working.
+
+**Thoughts**: it seems that there was nothing wrong with the arrow function related to hovering however i wasn't using the correct way to select the div / grid items. i was once again saved by the discord server as i was told to try to use "document.querySelectorAll()" instead of using getelementbyid. its kinda silly how i forgot this method as its one of the dom basics but yeah that was good progress.
+
+**Link(s) to work**
+
 
