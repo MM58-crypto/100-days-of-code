@@ -35,4 +35,8 @@
 
 **Link(s) to work**
 
+### Day 5: May 9, 2020
+
+**Today's Progress**: tbh, i barely did a thing today i just resized the grid and tried to do the last step ( i.e clearing the grid with a button)
+**Thoughts**: well i had no idea how to pull the last step off so i once again seeked help and i got an interesting advice altho i kinda need to think in order how to implement it but i will give it a shot later on.
 
