@@ -40,3 +40,10 @@
 **Today's Progress**: tbh, i barely did a thing today i just resized the grid and tried to do the last step ( i.e clearing the grid with a button)
 **Thoughts**: well i had no idea how to pull the last step off so i once again seeked help and i got an interesting advice altho i kinda need to think in order how to implement it but i will give it a shot later on.
 
+
+### Day 5: May 10, 2020
+
+**Today's Progress**: well was somehow able to pull the clear grid button off however there is a mistake that needs to be corrected
+**Thoughts**: altho the grid gets cleared when i press the button if i hover again on the sketchpad color. 
+
+
